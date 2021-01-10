@@ -1,0 +1,9 @@
+name: ChangeSkin
+version: 1.0
+main: code.jasgo.skin.Main
+author: Jasgo
+api-version: 1.16
+
+commands:
+  skin:
+    description: "/skin name"
